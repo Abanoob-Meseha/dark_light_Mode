@@ -1,0 +1,30 @@
+h1{
+    letter-spacing: 10px;
+    font-family: fantasy,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 60px;
+}
+p{
+    font-size: large;
+}
+body{
+    padding: 1%;
+    text-align: center;
+}
+/* images section */
+.images{
+    margin: 5% auto;
+}
+.images img{
+    width: 20%;
+    border-radius: 100%;
+}
+/* input section */
+input{
+    font-size: xx-large;
+    margin-right: 30px;
+}
+.input_section{
+    font-size: xx-large;
+    font-weight: bolder;
+}
